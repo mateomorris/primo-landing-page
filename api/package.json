@@ -1,0 +1,6 @@
+{
+  "name": primo-api",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
