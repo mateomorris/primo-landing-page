@@ -1,1 +1,1 @@
-# Built with [primo](https://primocloud.io)
+# Built with [primo](https://primo.af)
